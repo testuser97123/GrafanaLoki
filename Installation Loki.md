@@ -49,9 +49,9 @@ Grafana is an analytics and interactive visualization platform. It provides a ri
           name: logging-loki-s3
           namespace: openshift-logging
         stringData:
-          access_key_id: AKIA2FS66EATQF75BXLP
-          access_key_secret: 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
-          bucketnames: s3-bucket-darwikdev
+          access_key_id: A-ENCRYPTED-P
+          access_key_secret: ENCRYPTED
+          bucketnames: s3-ENCRYPTED
           endpoint: https://us-east-1.console.aws.amazon.com
           region: us-east-1
 
